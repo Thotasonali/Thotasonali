@@ -6,7 +6,7 @@
   <img src="https://komarev.com/ghpvc/?username=sonalithota&label=Profile%20views&color=0e75b6&style=flat" alt="sonalithota" /> 
 </p>
 
-🌱 I’m currently learning **Generative AI, Machine Learning, Distributed Systems, and System Design**
+🌱 I’m currently learning **LLMs, Machine Learning, Distributed Systems, and System Design**
 
 💬 Ask me about **Python, Java, Backend Systems, Data Engineering, and Machine Learning**
 
