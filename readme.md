@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sonali Thota</h1>
 <h3 align="center">MS Computer Science @ University at Buffalo | Software Engineer | AI/ML | Full Stack Developer</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif">
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=sonalithota&label=Profile%20views&color=0e75b6&style=flat" alt="sonalithota" /> 
