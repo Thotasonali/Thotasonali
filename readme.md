@@ -102,8 +102,8 @@
 <h3 align="left">GitHub Stats:</h3>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonalithota&show_icons=true&locale=en&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thotasonali&show_icons=true&locale=en&layout=compact" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonalithota&show_icons=true&locale=en" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thotasonali&show_icons=true&locale=en" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thotasonali&" alt="thotasonali" /></p>
