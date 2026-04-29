@@ -1,227 +1,242 @@
-<h1 align="left">
-  Hi There!! 
-  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" alt="wave" width="30px" height="30px">
-  I'm Sonali Thota!
-</h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&duration=3000&pause=800&color=C769F7&multiline=true&width=700&height=60&lines=MS+Computer+Science+Student+at+University+at+Buffalo;Software+Engineer+%7C+AI%2FML+%7C+Full+Stack+Developer" alt="Typing SVG" />
-</a>
+
+````html
+<h1 align="center">Hi, I'm Sonali Thota 👋</h1>
+
+<h3 align="center">
+  MS Computer Science @ University at Buffalo <br>
+  Software Engineer | AI/ML Developer | Backend & Full-Stack Engineer
+</h3>
+
+<p align="center">
+  <a href="mailto:sonaliraot123@gmail.com">
+    <img src="https://img.shields.io/badge/Email-sonaliraot123%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/thotasona" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sonali%20Thota-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 ## 👩‍💻 About Me
 
-I am currently pursuing my **Master’s in Computer Science at the University at Buffalo**.  
-I am passionate about **software engineering, AI/ML, backend systems, full-stack development, and cloud technologies**.
+I am a Computer Science graduate student at the **University at Buffalo** with experience in **software engineering, AI/ML, backend development, full-stack applications, and cloud-based systems**.
 
-I enjoy learning new technologies, building practical projects, solving real-world problems, and improving my skills through hands-on development.
+I enjoy building projects that connect **machine learning, scalable backend systems, and real-world product use cases**. My work focuses on writing clean code, designing reliable systems, and turning technical ideas into practical applications.
 
-- 🔭 I’m currently working on **AI/ML, full-stack, and backend engineering projects**
-- 🌱 I’m currently learning **LLMs, Machine Learning, Distributed Systems, and System Design**
-- 🔥 My interests include **AI/ML, Backend Development, Data Engineering, Cloud, and Full Stack Development**
-- 👯 I would love to collaborate on **AI, ML, web development, backend systems, and open-source projects**
-- 💬 Ask me about **Python, Java, Backend Systems, Data Engineering, Machine Learning, and Full Stack Development**
-- 📫 Reach me at **sonaliraot123@gmail.com**
-
----
-
-## 🤝 Connect with me
-
-<div>
-  <a href="mailto:sonaliraot123@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/in/thotasona" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</div>
+```text
+Current Focus
+├── AI/ML and LLM-based applications
+├── Backend systems and REST APIs
+├── Full-stack product development
+├── Data engineering and cloud workflows
+├── Computer vision and image processing
+└── System design and distributed systems
+````
 
 ---
 
-## 🛠 &nbsp;Languages and Tools
+## 🛠 Technical Skills
 
 <table>
   <tr>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" height="45" alt="Python" />
-      <br>Python
-    </td>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" height="45" alt="Java" />
-      <br>Java
-    </td>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" alt="JavaScript" />
-      <br>JavaScript
-    </td>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5" />
-      <br>HTML5
-    </td>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3" />
-      <br>CSS3
-    </td>
+    <td><b>Languages</b></td>
+    <td>Python, Java, JavaScript, SQL, HTML, CSS</td>
   </tr>
-
   <tr>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="45" height="45" alt="Spring Boot" />
-      <br>Spring Boot
-    </td>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" width="45" height="45" alt="Flask" />
-      <br>Flask
-    </td>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="45" height="45" alt="FastAPI" />
-      <br>FastAPI
-    </td>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45" height="45" alt="React" />
-      <br>React
-    </td>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="45" height="45" alt="Node.js" />
-      <br>Node.js
-    </td>
+    <td><b>Backend</b></td>
+    <td>Spring Boot, Flask, FastAPI, REST APIs, Node.js</td>
   </tr>
-
   <tr>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="45" height="45" alt="MySQL" />
-      <br>MySQL
-    </td>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="45" height="45" alt="PostgreSQL" />
-      <br>PostgreSQL
-    </td>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="45" height="45" alt="MongoDB" />
-      <br>MongoDB
-    </td>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="45" height="45" alt="Redis" />
-      <br>Redis
-    </td>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apachekafka/apachekafka-original.svg" width="45" height="45" alt="Kafka" />
-      <br>Kafka
-    </td>
+    <td><b>Frontend</b></td>
+    <td>React, HTML5, CSS3, JavaScript</td>
   </tr>
-
   <tr>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="45" height="45" alt="Docker" />
-      <br>Docker
-    </td>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45" alt="AWS" />
-      <br>AWS
-    </td>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" height="45" alt="Azure" />
-      <br>Azure
-    </td>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git" />
-      <br>Git
-    </td>
-    <td align="center" width="95">
-      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="45" height="45" alt="Postman" />
-      <br>Postman
-    </td>
+    <td><b>Databases</b></td>
+    <td>MySQL, PostgreSQL, MongoDB, Redis</td>
   </tr>
-
   <tr>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45" height="45" alt="Pandas" />
-      <br>Pandas
-    </td>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="45" height="45" alt="NumPy" />
-      <br>NumPy
-    </td>
-    <td align="center" width="95">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45" alt="Scikit-learn" />
-      <br>Scikit-learn
-    </td>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="45" height="45" alt="PyTorch" />
-      <br>PyTorch
-    </td>
-    <td align="center" width="95">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="45" height="45" alt="TensorFlow" />
-      <br>TensorFlow
-    </td>
+    <td><b>AI/ML</b></td>
+    <td>Machine Learning, Deep Learning, PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy</td>
+  </tr>
+  <tr>
+    <td><b>Computer Vision</b></td>
+    <td>Image Stitching, SIFT, RANSAC, Homography, Perspective Warping, Feature Matching</td>
+  </tr>
+  <tr>
+    <td><b>Cloud & DevOps</b></td>
+    <td>AWS, Azure, Docker, Git, GitHub, Postman</td>
+  </tr>
+  <tr>
+    <td><b>Currently Learning</b></td>
+    <td>LLMs, Distributed Systems, System Design, MLOps</td>
   </tr>
 </table>
 
 ---
 
-## 💼 Experience
+## 🚀 Featured Projects
 
-🔹 **Accenture — Software Engineering Associate**  
-- Developed and configured enterprise applications  
-- Improved system reliability and maintainability  
-- Collaborated with cross-functional teams  
-- Optimized workflows and application performance  
+### Image Stitching and Panorama Generation
 
-🔹 **Pragmatiq Systems — AI/ML Intern**  
-- Built a real-time hand gesture recognition system  
-- Developed machine learning models using Python  
-- Designed end-to-end ML pipelines  
-- Improved model performance through tuning and evaluation  
+Computer vision project implementing a complete image stitching pipeline for background stitching and multi-image panorama generation.
 
-🔹 **1Stop.ai — Full Stack Developer Intern**  
-- Built full-stack web applications  
-- Developed REST APIs and backend logic  
-- Designed and managed databases  
+```text
+Input Images
+      |
+      v
+Float Conversion and Normalization
+      |
+      v
+Grayscale Conversion
+      |
+      v
+SIFT Keypoint Detection + Descriptor Extraction
+      |
+      v
+Descriptor Matching with Ratio Test
+      |
+      v
+RANSAC Homography Estimation
+      |
+      v
+Canvas Computation
+      |
+      v
+Perspective Warping
+      |
+      v
+Valid-Region Mask Creation
+      |
+      v
+Overlap Detection
+      |
+      v
+Blending / Motion Removal
+      |
+      v
+Crop Black Borders
+      |
+      v
+Final Stitched Image / Panorama
+```
+
+**Highlights**
+
+* Built a full image stitching pipeline using **SIFT feature extraction, descriptor matching, RANSAC homography estimation, perspective warping, and blending**
+* Implemented background stitching with **moving-object removal**
+* Generated multi-image panoramas and overlap matrices
+* Compared different stitching strategies for robustness, matching quality, and visual output
+* Evaluated key design choices such as feature count, ratio test threshold, RANSAC inliers, reprojection error, and blending quality
 
 ---
 
-## 🚀 Projects
+### House Price Prediction using TabNet
 
-🔹 **Image Stitching and Panorama Generation**  
-- Built an image stitching pipeline using SIFT feature matching, RANSAC homography estimation, perspective warping, and blending  
-- Implemented background stitching with moving-object removal  
-- Generated multi-image panoramas and overlap matrices  
+Deep learning regression project for structured housing data.
 
-🔹 **Blockchain Application using Ethereum**  
-- Built a decentralized application using Solidity and Web3  
-- Integrated MetaMask authentication  
+**Highlights**
 
-🔹 **House Price Prediction using TabNet**  
-- Built a deep learning regression model for house price prediction  
-- Achieved RMSE ≈ 0.52  
+* Built a TabNet-based regression model
+* Performed preprocessing, model training, evaluation, and tuning
+* Achieved RMSE ≈ 0.52
+* Focused on improving prediction accuracy for tabular data
 
-🔹 **Data Pipeline Optimization System**  
-- Designed scalable SQL pipelines  
-- Improved query performance by 30%  
+---
+
+### Blockchain Application using Ethereum
+
+Decentralized application using Ethereum blockchain tools.
+
+**Highlights**
+
+* Built smart contract functionality using Solidity
+* Integrated Web3 and MetaMask authentication
+* Connected frontend interaction with blockchain transactions
+
+---
+
+### Data Pipeline Optimization System
+
+Backend/data engineering project focused on scalable SQL workflows.
+
+**Highlights**
+
+* Designed optimized SQL pipelines
+* Improved query performance by approximately 30%
+* Focused on reliability, maintainability, and efficient data processing
+
+---
+
+## 💼 Experience
+
+### Software Engineering Associate — Accenture
+
+* Developed and configured enterprise applications
+* Improved application reliability, maintainability, and performance
+* Collaborated with cross-functional teams in a professional software environment
+* Worked on workflow optimization and application support
+
+---
+
+### AI/ML Intern — Pragmatiq Systems
+
+* Built a real-time hand gesture recognition system
+* Developed machine learning models using Python
+* Designed end-to-end ML workflows
+* Improved model performance through tuning and evaluation
+
+---
+
+### Full Stack Developer Intern — 1Stop.ai
+
+* Built full-stack web applications
+* Developed REST APIs and backend logic
+* Designed and managed databases
+* Worked on frontend and backend integration
 
 ---
 
 ## 📜 Certifications
 
-- AWS Certified Data Engineer – Associate  
-- Microsoft Azure AI Fundamentals  
-- AWS Cloud Foundations  
-- Java Programming Certification  
+* AWS Certified Data Engineer – Associate
+* Microsoft Azure AI Fundamentals
+* AWS Cloud Foundations
+* Java Programming Certification
 
 ---
 
-## 🎯 My Stats and Streaks
+## 🎯 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thotasonali&theme=jolly&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=thotasonali&theme=tokyonight&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thotasonali&theme=jolly&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thotasonali&theme=tokyonight&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thotasonali&theme=jolly" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thotasonali&theme=tokyonight" alt="GitHub Streak" />
 </p>
+
+---
+
+## 🎯 What I’m Looking For
+
+I am interested in opportunities related to:
+
+```text
+AI/ML Engineering
+Backend Software Engineering
+Full-Stack Development
+Data Engineering
+Cloud and MLOps
+Computer Vision
+```
+
+I enjoy working on projects where **software engineering and machine learning come together to solve practical problems**.
+
+```
+```
