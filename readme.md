@@ -37,8 +37,100 @@ Current Focus
 ---
 
 ## 🛠 Technical Skills
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,spring,flask,fastapi,mysql,postgres,mongodb,redis,docker,aws,azure,git,github,tensorflow,pytorch&perline=7" /> </p> <p align="center"> <img src="https://img.shields.io/badge/AI%2FML-Machine%20Learning-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch%20%7C%20TensorFlow-orange?style=flat-square" /> <img src="https://img.shields.io/badge/Backend-Spring%20Boot%20%7C%20Flask%20%7C%20FastAPI-green?style=flat-square" /> <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Databases-MySQL%20%7C%20PostgreSQL%20%7C%20MongoDB-red?style=flat-square" /> </p>
+## 🛠 Skills
 
+### Languages & Web
+<p align="center">
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://react.dev/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=react" alt="React" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://nodejs.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="45" height="45" />
+  </a>
+</p>
+
+### Backend & Databases
+<p align="center">
+  <a href="https://spring.io/projects/spring-boot" target="_blank">
+    <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://flask.palletsprojects.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://www.mysql.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://www.postgresql.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://www.mongodb.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://redis.io/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="45" height="45" />
+  </a>
+</p>
+
+### Cloud, DevOps & AI/ML
+<p align="center">
+  <a href="https://www.docker.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://aws.amazon.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://azure.microsoft.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://www.tensorflow.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="45" height="45" />
+  </a>
+  &nbsp;
+  <a href="https://pytorch.org/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="45" height="45" />
+  </a>
+</p>
 ---
 
 ## 🚀 Featured Projects
