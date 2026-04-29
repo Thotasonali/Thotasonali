@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=600&duration=3000&pause=800&color=C769F7&multiline=true&width=700&height=60&lines=MS+Computer+Science+Student+at+University+at+Buffalo;Software+Engineer+%7C+AI%2FML+%7C+Full+Stack+Developer" alt="Typing SVG" />
 </a>
 
-<a href="#">
-  <img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/>
-</a>
-
 ---
 
 ## 👩‍💻 About Me
