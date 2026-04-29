@@ -37,41 +37,7 @@ Current Focus
 ---
 
 ## 🛠 Technical Skills
-
-<table>
-  <tr>
-    <td><b>Languages</b></td>
-    <td>Python, Java, JavaScript, SQL, HTML, CSS</td>
-  </tr>
-  <tr>
-    <td><b>Backend</b></td>
-    <td>Spring Boot, Flask, FastAPI, REST APIs, Node.js</td>
-  </tr>
-  <tr>
-    <td><b>Frontend</b></td>
-    <td>React, HTML5, CSS3, JavaScript</td>
-  </tr>
-  <tr>
-    <td><b>Databases</b></td>
-    <td>MySQL, PostgreSQL, MongoDB, Redis</td>
-  </tr>
-  <tr>
-    <td><b>AI/ML</b></td>
-    <td>Machine Learning, Deep Learning, PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy</td>
-  </tr>
-  <tr>
-    <td><b>Computer Vision</b></td>
-    <td>Image Stitching, SIFT, RANSAC, Homography, Perspective Warping, Feature Matching</td>
-  </tr>
-  <tr>
-    <td><b>Cloud & DevOps</b></td>
-    <td>AWS, Azure, Docker, Git, GitHub, Postman</td>
-  </tr>
-  <tr>
-    <td><b>Currently Learning</b></td>
-    <td>LLMs, Distributed Systems, System Design, MLOps</td>
-  </tr>
-</table>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,java,javascript,html,css,react,nodejs,spring,flask,fastapi,mysql,postgres,mongodb,redis,docker,aws,azure,git,github,tensorflow,pytorch&perline=7" /> </p> <p align="center"> <img src="https://img.shields.io/badge/AI%2FML-Machine%20Learning-blue?style=flat-square" /> <img src="https://img.shields.io/badge/Deep%20Learning-PyTorch%20%7C%20TensorFlow-orange?style=flat-square" /> <img src="https://img.shields.io/badge/Backend-Spring%20Boot%20%7C%20Flask%20%7C%20FastAPI-green?style=flat-square" /> <img src="https://img.shields.io/badge/Cloud-AWS%20%7C%20Azure-purple?style=flat-square" /> <img src="https://img.shields.io/badge/Databases-MySQL%20%7C%20PostgreSQL%20%7C%20MongoDB-red?style=flat-square" /> </p>
 
 ---
 
@@ -179,7 +145,7 @@ Backend/data engineering project focused on scalable SQL workflows.
 
 ---
 
-### AI/ML Intern — Pragmatiq Systems
+### AI/ML engineer — Pragmatiq Systems
 
 * Built a real-time hand gesture recognition system
 * Developed machine learning models using Python
@@ -188,7 +154,7 @@ Backend/data engineering project focused on scalable SQL workflows.
 
 ---
 
-### Full Stack Developer Intern — 1Stop.ai
+### Full Stack Developer  — 1Stop.ai
 
 * Built full-stack web applications
 * Developed REST APIs and backend logic
@@ -236,6 +202,3 @@ Computer Vision
 ```
 
 I enjoy working on projects where **software engineering and machine learning come together to solve practical problems**.
-
-```
-
