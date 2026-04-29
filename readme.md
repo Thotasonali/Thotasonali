@@ -38,63 +38,122 @@ Current Focus
 
 ## 🛠 Skills
 
-## 🛠 Skills
+<table align="center">
+  <tr>
+    <td align="center" width="80">
+      <a href="https://www.python.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.java.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+        <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+        <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+        <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://react.dev/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://nodejs.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" />
+      </a>
+    </td>
+  </tr>
 
-<p align="center">
-  <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python" alt="Python" width="50" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.java.com/" target="_blank"><img src="https://skillicons.dev/icons?i=java" alt="Java" width="50" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" width="50" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html" alt="HTML" width="50" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css" alt="CSS" width="50" height="50" /></a>
-</p>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://spring.io/projects/spring-boot" target="_blank">
+        <img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://flask.palletsprojects.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://fastapi.tiangolo.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.mysql.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.postgresql.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://redis.io/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50" height="50" />
+      </a>
+    </td>
+  </tr>
 
-<p align="center">
-  <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react" alt="React" width="50" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="50" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://spring.io/projects/spring-boot" target="_blank"><img src="https://skillicons.dev/icons?i=spring" alt="Spring Boot" width="50" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://skillicons.dev/icons?i=flask" alt="Flask" width="50" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://skillicons.dev/icons?i=fastapi" alt="FastAPI" width="50" height="50" /></a>
-</p>
+  <tr>
+    <td align="center" width="80">
+      <a href="https://www.docker.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://aws.amazon.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://azure.microsoft.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://git-scm.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://github.com/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://www.tensorflow.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50" />
+      </a>
+    </td>
+    <td align="center" width="80">
+      <a href="https://pytorch.org/" target="_blank">
+        <img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="50" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL" width="50" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="50" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="50" height="50" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" width="50" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" width="50" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://azure.microsoft.com/" target="_blank"><img src="https://skillicons.dev/icons?i=azure" alt="Azure" width="50" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" width="50" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/" target="_blank"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50" /></a>
-</p>
-
-<p align="center">
-  <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow" alt="TensorFlow" width="50" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch" alt="PyTorch" width="50" height="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /></a>
-  &nbsp;&nbsp;
-  <a href="https://kornia.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/Kornia-Computer%20Vision-blue?style=for-the-badge" alt="Kornia" /></a>
-</p>
 <p align="center">
   <a href="https://opencv.org/" target="_blank"><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" /></a>
   <a href="https://kornia.readthedocs.io/" target="_blank"><img src="https://img.shields.io/badge/Kornia-Computer%20Vision-blue?style=for-the-badge" alt="Kornia" /></a>
