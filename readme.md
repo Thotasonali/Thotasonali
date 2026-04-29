@@ -1,6 +1,5 @@
 
 
-````html
 <h1 align="center">Hi, I'm Sonali Thota 👋</h1>
 
 <h3 align="center">
@@ -239,4 +238,4 @@ Computer Vision
 I enjoy working on projects where **software engineering and machine learning come together to solve practical problems**.
 
 ```
-```
+
