@@ -294,7 +294,7 @@ Backend/data engineering project focused on scalable SQL workflows.
 
 ---
 
-### AI/ML Intern — Pragmatiq Systems
+### AI/ML  — Pragmatiq Systems
 
 * Built a real-time hand gesture recognition system
 * Developed machine learning models using Python
